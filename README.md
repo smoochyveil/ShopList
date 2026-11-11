@@ -1,0 +1,1 @@
+shoplist es una aplicación que muestra una lista de compras
